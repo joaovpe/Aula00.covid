@@ -1,0 +1,26 @@
+Pertguntas 
+
+Oque o JS é capaz de fazer?
+Praticamente Tudo	
+
+cliente x server - quando se tem um dispositivo que ele se conecta a um servidor (servidor do: google, youtube e etc..) o dispositivo se torna um cliente pedindo informaçãoes que vão para uma infraestrutura da internet e irá depois disso para o servidor que retorna uma cópia do site para o cliente ou seja volta um arquivo html, css ou js que será possivel vizualizar o site pelo cliente...
+ Javascript é feito em prol do cliente
+
+profissionais nesta área:
+
+*"Jornalista": Criadora de conteúdo ou seja texto e imagens para a criação do site (HTML)
+*Designer: O profissional que muda layout e deixa o website mais atraente (CSS)
+*Programador: O que programa o site para interação dele com o usuário (JS)
+
+Quem usa JS?
+Google, youtube, linkedin, netflix, facebook
+
+Códigos aprendidos (Console)
+
+document.body.stylebackground = 'color'- mudar a cor do fundo
+
+document.queryselector('seletor').style.filter = 'color' - mudar a cor por seletor
+
+document.queryselector('seletor')style.visibility'hidden' - fazer desaparecer o elemento selecionado
+
+document.queryselector('seletor').innertext='bla bla' - mudar texto por seletor

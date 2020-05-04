@@ -1,0 +1,64 @@
+Que livros nos recomendamos ?
+Javascript guia de programador 
+Javascript o guia definitivo
+
+Para aprender JS, precisamos saber inglês ?
+Não necessariamente
+
+Que dicas nós demos para quem quer estudar?
+
+Praticar sempre e estudar e ler livros que ajudam o entendimento
+
+Criação de pasta no visual studio e criação de arquivos + .html ou .css e etc
+
+.html para criar um arquivo html 
+.css para criar um arquivo css
+.js para criar um arquivo javascript
+
+
+corpo do html, o visual auxilia e facilitando o usuario não perder tempo fazendo a estrutura do html, digitando html ele irá aparecer html 5 que irá fazer a estrutura 
+
+<tag></tag> assim são abertas tags que são elementos que é um tipo 
+
+<html>:onde fica o html inteiro
+
+<head>:  cabeça da estrutura do html onde é colocado padrões ou links para carregar o css
+
+<body>: onde será inserido frases e etc
+
+<h1>: titulo do tamanho 1
+
+<p>paragrafo inserido no html</p>
+
+<style></style> pode ser inserido no head e todas os elementos do css podem ser alterados dentro (estilização)
+
+<style> -estilização
+
+
+<body> seletor
+background-color: blue; - muda cor do fundo
+color: white; - altera a cor de alguma palavra que se encontra dentro do seletor  
+font-size: 25px; - aumenta a fonte do seletor
+
+
+</body> 
+</style>
+
+a tag script insere dentro do body
+
+dentro do script vai os codigos de js 
+
+alert ("texto que quer que apareça no alerta do navegador!")
+
+
+conteudo html
+
+estilo css
+
+interação js
+
+
+confirm("texto que quer que apareça no alerta do navegador para o usuario confirmar!")
+
+
+prompt("inserir alguma informação")

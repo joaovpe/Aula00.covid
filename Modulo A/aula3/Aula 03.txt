@@ -1,0 +1,23 @@
+Perguntas
+
+Sabe que empresa criou O JS?
+Netscape
+
+Java e js possuem alguma relação?
+Não, apenas o nome quase igual, são linguagens totalmente diferentes 
+
+Oque ECMASCRIPT tem a ver com JS?
+Ecma padronizou a linguagem e se tornou ECMASCRIPT
+
+Sabia que o programa whatsapp desktop é criado em JS?
+Sim
+
+Softwares necessarios
+
+Google Chrome 
+
+Visual studio code
+
+NodeJS
+
+Como instalar os softwares acessando o site oficial e como aprender...

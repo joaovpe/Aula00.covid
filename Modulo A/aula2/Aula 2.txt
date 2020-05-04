@@ -1,0 +1,27 @@
+Perguntas 
+
+Sabe a diferença entre um cliente e um servidor para internet?
+cliente é quem solicita arquivos seja eles html de um site e etc... o servidor é oque entrega ao cliente o que foi solicitado (cópia)
+
+Para que serve HTML, CSS e JS?
+HTML - Criação de textos e inserção de imagens no website
+css- Estilização
+JS - Interação do site com o usuario
+
+Cite 4 sites que usam JS?
+Google, Linkedin, Facebook e youtube
+
+T.L.B Criou a tecnologia html e http, ele também fundou WWW (World wide web)
+
+Mosaic foi o primeiro navegador criado por Mark Andersen que logo mais tarde fez uma parceria com Din Clark e fundaram a NETSCAPE um navegador que ficou famoso Brand Nick Fez uma linguagem que no começo se chamava "Moca"
+Este nome foi alterado por uma jogada de marketing pois a linguagem "JAVA" estava fazendo sucesso, então decidiram colocar de JAVASCRIPT
+
+Microsoft comprou a mosaic e fez a Internet Explorer 
+
+Javascript foi padronizado pela ECMA e se transformou em ECMA SCRIPT que teve varias versões 
+
+Netscape também fizeram dois navegadores chamados mozila e firefox 
+
+em 2008 Foi lançado o navegador mais utilizado Google Chrome 
+
+Tecnologias jquery, angular, react, vue, ionic...
