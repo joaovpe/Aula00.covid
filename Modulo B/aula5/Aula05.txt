@@ -1,0 +1,45 @@
+Ja sabe organizar suas pastas com VSCODE?
+R: sim
+
+O node JS já está instalado em seu computador e pra que serve?
+R: Sim, Lidar com JS fora de websites
+
+Sabe diferenciar HTML5, CSS3 E JS dentro de um código?
+R: Sim 
+
+Sabe disparar alertas, confirmações e pérguntas?
+R: Sim, alert() confirm() e prompt()
+
+Tipos de dados e variaveis
+
+Como guardar dados 
+
+Dicas* Usar comentarios em suas linhas de comando para um entendimento mais rápido e prático 
+
+JS: // UMA LINHA DE COMANDO /* ÁREA DELIMITADA */
+HTML: <!-- TEXTO --> 
+CSS: /* ÁREA DELIMITADA */
+
+Var a1 = carro1 (o simbolo = significa "recebe")
+
+Var igual variaveis 
+
+Variaveis espaços para inserção de dados na memória
+
+Atribuição
+
+var n1 = 5 (tipo number)
+var n2 = 8.5 (tipo number)
+var n3 = 15 (tipo number)
+
+String: Caracteres inserido dentro de aspas seja ela duplas ou unica
+
+ex: var s1 = "Javascript"
+
+/* Numeros inteiros e reais são do tipo number */
+
+
+Typeof - descobrir o tamanho de uma variavel 
+
+Ex: typeof var
+

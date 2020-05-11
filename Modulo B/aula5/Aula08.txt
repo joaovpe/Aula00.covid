@@ -1,0 +1,70 @@
+Para que serve % em JS? Seria pra calcular a porcentagem?
+R: no caso não, Ele seria para calcular o resto de uma divisão
+
+6 + 4 / 2 é igual a 5 ou 8 ?
+R: 8
+
+Se uma variavel N esta valendo 10 e executamos um n+=5 qual sera o novo valor?
+R: 15
+
+Para que servem os operadores ++ e -- ?
+R: Acrescentar 1 em uma certa variavel e para retirar 1 da variavel
+
+Operadores 
+
+Relacionais 
+Logicos 
+Ternario
+
+Relacionais 
+
+> maior
+< menor
+>= maior ou igual
+<= menor ou igual
+== igual
+!= diferente
+
+identidade 
+
+== apenas testa o valor 
+
+exemplo: 5 == "5" - True poque ele testa apenas o valor da string e do number e não o tipo
+
+=== testa o valor e o tipo
+
+exemplo: 5 === "5" - 1 o primeiro é um number e o segundo uma string ou seja a resposta sera "False"
+
+
+
+Logicos 
+
+! Negação
+&& Conjunção
+|| Disjunção
+
+! true --- false
+! false --- true
+
+Conjunção (&&) - Só será verdadeiro quando os dois lados forem verdadeiros ou seja duas necessidades que precisam ser atendidas (e)
+
+
+Disjunção (||) Basta um ser verdadeiro para ser o resultado ser verdadeiro 
+(ou)
+
+Ternário (?) (:) Se e senão
+
+var media = 8
+
+var res = Media >=7 ? "aprovado" : reprovado
+
+res = "aprovado"
+
+Precendencia 
+
+1° Aritmetica 
+2° Relacional
+3° Logicos
+4° Ternário
+
+

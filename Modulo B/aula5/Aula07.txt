@@ -1,0 +1,66 @@
+Como é possivel guardar o valor digitado em um prompt() ddentro de uma variavel?
+R: var nome = prompt("qual é o seu nome?")
+
+Como é possivel fazer com que um numero digitado em um prompt() possa ser usado em calculos?
+R: alterando o valor de prompt() de string para number utilizando ParseInt ou ParseFloat ou utilizando number.
+var n1 = Number.(prompt("digite um numero"))
+var n2 = Number.(prompt("digite um numero"))
+e FAZENDO A CONTA 
+var res = n1 + n2
+
+Como transforma um texto todo para letra maisculas?
+R: var.ToUpperCase()
+
+Como mostrar um numero formatado com valor monetario?
+R:n1.ToLocaleString('pt-BR', {style:'currency', currency:'BRL'}) - Coloca o sinal da moeda conforme digitado 
+
+
+Operadores do JS
+
+*Aritmetica
+*Atribuição
+*Relacionais
+*Lógicos
+*Ternário
+
+Aritmeticos
+
++ Adição
+- Subtração
+* Multiplicação
+/ Divisão
+% Resto da divisão
+** Potencia 
+
+Precendencia 
+
+() - Calcular oq está em parenteses primeiro e em seguida
+**
+* / %
++ - 
+
+Auto atribuição forma mais encurtada
+
+n=4
+
+n+=1
+
+n=5...
+
++=
+-=
+*=
+/=
+**=
+%= 
+
+O sinal de incremento seria a variavel mais 1
+
+Ficaria assim :
+
+var x = 5
+
+x++ seria x = x + 1 
+x-- seria x = x - 1
+
+

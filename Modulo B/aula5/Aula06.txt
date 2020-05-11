@@ -1,0 +1,56 @@
+Oq é uma variavel ?
+R: São espaços na memória que pode ser armazenados por numeros strings e etc...
+
+Como declarar uma variavel numerica inteira ou real usando o JS?
+R: var n1 = 1.5
+   var n2 = 2
+   Para alterar um numero de inteiro para real, usasse ParseFloat() e ao contrario ParseInt
+
+Quais são os tipos primitivos do JS?
+R:  Number, string, boolean, null, undefined, object, function
+ 
+Oq significa colocar o valor NULL em uma variavel ?
+R: Um valor Null pode indicar que a informação existe mas é desconhecida, ou seja , se um campo "Telefone" não contém valores pode indicar que ou o cliente não possui telefone ou que o seu telefone não é conhecido. Geralmente usa-se Null para indicar que o campo não contém valores conhecidos.
+
+O simbolo "+" significa concatenação
+
+Conversão de tipo 
+
+ParseInt(n) Para transformar (n) em inteiro
+ParseFloat(n) Para transformar (n) em real
+Number(n) o JS irá descobrir qual o tipo desejado (versão mais atualizada)
+
+String(n) transformar (n) em string
+ou 
+N.ToString - transformar N. em string
+
+Formatando string
+
+(string + string) o sinal de "+" significa concatenação
+
+(number + number) o sinal de '+' significa adição
+
+'texto' + s
+
+Template strings (versão mais atualizada) 
+
+Ex: "O seu nome é ${nome}"
+
+nome.Length - Mostra o tamanho da string
+
+nome.ToUpperCase() - Transforma em maisculo a string
+nome.ToLoweCase() - Transforma em minisculo a string
+
+Document.write("o seu nome é ${nome}") - Escreve no HTML o texto mais a variavel 
+
+<Strong> Deixa esta frase em negrito </strong>
+
+Formatando numeros
+
+
+n.ToFixed(numero de casas decimais que deseja no numero real "n.")
+
+n1.ToLocaleString('pt-BR', {style:'currency', currency:'BRL'}) - Coloca o sinal da moeda conforme digitado 
+
+
+
