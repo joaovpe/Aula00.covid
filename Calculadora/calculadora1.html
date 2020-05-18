@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    
+
+    
+    <style>
+        button{
+            height: 100px;
+            width: 100px;
+        }
+        input{
+            width: 200px;
+        }
+        
+    </style>
+</head>
+<body>
+   <h1>Calculadora</h1>
+   <input type="number" id="n1">
+   <input type="number" id="n2"><br><br>
+   <button onclick="soma()">somar</button>
+   <button onclick="sub()">subtração</button>
+   <button onclick="mult()">multiplicar</button>
+   <button onclick="div()">dividir</button>
+    <p></p>
+   
+   <script>
+       function soma(){
+        var valor1 = document.getElementById("n1").value;
+        var valor2 = document.getElementById("n2").value;
+        var res = parseInt(valor1) + parseInt(valor2);
+        alert(res)
+       }
+       function sub(){
+        var valor1 = document.getElementById("n1").value;
+        var valor2 = document.getElementById("n2").value;
+        var res = parseInt(valor1) - parseInt(valor2);
+        alert(res)
+       }
+       function mult(){
+        var valor1 = document.getElementById("n1").value;
+        var valor2 = document.getElementById("n2").value;
+        var res = parseInt(valor1) * parseInt(valor2);
+        alert(res)
+       }
+       function div(){
+        var valor1 = document.getElementById("n1").value;
+        var valor2 = document.getElementById("n2").value;
+        if(valor2 == 0)
+        {
+            alert("Impossivel dividir")
+        }
+        else{
+            var res = parseInt(valor1) / parseInt(valor2);
+        alert(res)
+        }
+        
+       }
+
+   </script>
+
+
+</body>
+</html>
