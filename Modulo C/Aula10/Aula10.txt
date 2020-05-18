@@ -1,0 +1,33 @@
+oq significa a sigla DOM?
+R: Document object model
+
+sabe montrar a arvore DOM de um website simples ?
+R: Sim apenas ir seguindo seus componentes
+
+Oq são os elementos parent e os elementos child em uma arvore dom?
+R: Parent é quando o elemento tem um filho que seria child, exemplo: head seria parents de meta e meta seria child de head...
+
+Quais sãol os 5 principais metodos de selecionar elementos DOM dentro do JS?
+R: selecionar por marca, nome, id, classe e seletor
+
+Eventos DOM
+
+mouseenter
+mousemove
+mousedown
+mouseup
+click
+mouseout 
+
+Disparando eventos com o mouse 
+
+Função - Conjunto de codigos que dispara algo que se encontra na função 
+
+exemplo
+
+function ação(parametros)
+{
+bloco
+}
+
+ativando função com ações do usuario que façam disparar codigos que estão são programados para somar, adicionar textos e etc...

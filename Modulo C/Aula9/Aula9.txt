@@ -1,0 +1,44 @@
+ Qual a diferença entre usar =, ==, === em códigos escrito em JS?
+R: == igual só o valor === Estritamente igual (vALOR E TIPO) e = igual normal
+
+
+
+Em uma mesma expressão, temos os operadores || e &&. quem eu resolvo primeiro?
+R:&&
+
+
+Sabe usar o operador ternario para colocar um entre dois valores em uma variavel ?
+R:sIM Media>=07?"aprovado":"reprovado" 
+
+DOM
+
+Ativar o watch in chrome (extensão)
+
+Ativer Node Exec (extensão)
+
+DOM - Document object model
+
+Conjunto de objeto dentro do navegador que dará acesso aos componentes internos dentro do website
+
+window - janela do computador
+--- location (URL)
+--- document (documento atual) - HTML(parents or child)  - head --- meta title and body --- h1, p, p, strong div (child)
+--- history (historico de paginas)
+ 
+Arvore de um site 
+
+Hierarquico child quem está a baixo e parents quem está em cima
+
+Podemos navegar e mostrar informações dos componentes dos website podemos pesquisar por 
+
+marca (getElementsByTagName()) Por tag
+
+Por id (getElementsById()) Por id
+
+Por nome (getElementsByName()) Por nome
+
+Por classe (getElementsByClassName()) Por classe 
+
+
+
+
