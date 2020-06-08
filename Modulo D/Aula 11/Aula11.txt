@@ -1,0 +1,39 @@
+Consegue citar três eventos que podem acontecer com elementos DOM de um site?
+R:
+getElementById - Busca um elemento da página Web com o uso do atributo id do elemento.
+
+getElementsByTagName - Retorna um array dos elementos com o mesmo nome.
+
+documentElement - Captura o elemento raiz <html> de um documento HTML.
+
+
+Oque é uma função JS?
+R:Função em javascript é uma tarefa que vai disparar quando um botão ou algo for acionado
+
+Sabe como pegar valores de caixas de textor e fazer calculos com eles ?
+R:Sim 
+
+document.GetElementById('caixa de texto').value
+
+if(condição){
+
+
+}else{
+
+
+}
+
+Tipos de condição
+
+if(condição){
+
+ ''Condição Simples''
+
+}
+
+
+console.log()
+
+var vel1 = 
+
+

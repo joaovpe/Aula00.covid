@@ -1,0 +1,77 @@
+Já sabe como usar a extensão NOde Exec no VSCode?
+R: Sim
+
+Sabe criar uma condição em seu programa JS?
+R:Sim utilizando IF (condição){}else{}
+
+Consegue diferenciar condições simples e as condições compostas ?
+R: Sim, Quando se tem apenas o IF sem o Else é considerada simples e quando tem o else é composta
+
+POde ter IF dentro de outro de IF 
+
+Sendo assim 
+
+
+if(cond){
+
+	bloco1
+
+}else{
+
+	if(cond){
+
+		bloco2
+
+	}else{
+	
+		bloco3
+
+	}
+
+
+}
+
+
+JS 
+
+var idade = 32
+
+if(idade < 16){
+
+	console.log('Não vota')
+
+}else{
+
+	if(idade >=16 && idade < 18){
+
+	console.log('voto opcional')
+	
+	}else{
+
+	console.log('voto obrigatorio')
+	
+	}
+
+}
+
+Condição multipla 
+
+
+	switch(expressão){
+	
+	case valor1:
+	
+		break
+	case valor2:
+
+		break	
+	case valor3:
+
+		break
+	default:
+	
+
+		break
+	}	
+
+
