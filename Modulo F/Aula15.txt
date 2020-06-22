@@ -1,0 +1,16 @@
+Já treinou bastante o uso das estruturas de repetição while, do.. while e for?
+R:Sim, faziamos bastante em linguagem c
+
+Aprendeu como manipular objetos de formularios html usando JS
+R: Sim
+
+Seria bom tornar seus códigos menores mais simplificados?
+R:Sim
+
+Você é aquele tipo de pessoa que ouviu alguém dize que usar array é dificil?
+R: Sim
+
+ 
+Variaveis simples, só consegue armazenar um valor por vez 
+
+Variaveis compostas consegue armazenar mais que um valor dentro de uma variavel sendo assim enconstradas pelos indices

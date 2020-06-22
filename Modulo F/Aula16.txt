@@ -1,0 +1,15 @@
+Conseguiu simplificar seus códigos com uso de array?
+R: Sim
+
+Sabe colocar um array em ordem usando apenas uma chamada de função?
+R: sim, usando num.sort()
+
+Lembra como disparar uma função simples quando apertamos um botão?
+R: Sim
+
+Quer aprender mais sobre função?
+SiM
+
+Funções são ações executadas assim qe são chamadas ou em decorrência de algum evento 
+
+Uma função pode receber parametros e retornar um resultado

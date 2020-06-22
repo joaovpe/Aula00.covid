@@ -1,0 +1,10 @@
+Você aprendeu a usar direito a extensão watch in chrome no VSCODE?
+Sim mas geralmente uso live server
+
+Já aprendeu usar o modo depuração no VSCODE?
+sIM
+
+Já treinou bastante os componentes array e functionw
+Sim
+
+
